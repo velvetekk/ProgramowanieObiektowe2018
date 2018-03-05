@@ -1,2 +1,3 @@
 Imię, Nazwisko, adres repozytorium
 Katarzyna Kudłacik https://github.com/KaKudlacik/WUNSZ-2-Geneza
+Jakub Wylandowski https://github.com/velvetekk/Bomba_Retribuszyn-420.git
